@@ -1,3 +1,10 @@
+<style>
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+
 <!--
 **yasirkhan54/yasirkhan54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
