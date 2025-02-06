@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">About me</h3>
 
-<p style="text-align: justify; text-justify: inter-word;">
+<p align="justify">
 Master’s in Information Technology graduate with 13 years of experience as a full-stack software engineer. Proficient in translating complex designs into functional web applications with expertise in coding standards, design patterns, optimization techniques, and on-page SEO. Skilled in efficient hydration techniques to optimize server-client resource usage for lightning-fast applications. Experienced in designing and developing secure, high-performance REST APIs using both monolithic and microservices architectures, deployable on-premises or in the cloud.
 </p>
 
