@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 
 <h3 align="left">About me</h3>
 
-✅ Next.js, React.js, React Hooks, React Router, React Query, React Hook Forms, Zod, Formik, Redux
-✅ Angular CLI, NgRx, Workspace, Application, Library, I18n, Server-side & hybrid rendering
-✅ JavaScript, TypeScript, Node.js, Express.js, Nest.js, Python, Fast APIs, Prisma, TypeORM
-✅ HTML/5, XHTML, JSX, CSS/3, SASS, LESS, On-Page SEO
-✅ Material UI, Antd, Shadcn UI, Tailwind, Bootstrap, Styled Components, Emotion JS
-✅ Monolith Application, Microservices, Micro-frontends
-✅ Microsoft SQL Server, MongoDB, PostgreSQL, Supabase
-✅ GitHub, GitLab, Bitbucket, CI/CD, Docker, Kubernetes (K8s)
+✅ Next.js, React.js, React Hooks, React Router, React Query, React Hook Forms, Zod, Formik, Redux <br />
+✅ Angular CLI, NgRx, Workspace, Application, Library, I18n, Server-side & hybrid rendering <br />
+✅ JavaScript, TypeScript, Node.js, Express.js, Nest.js, Python, Fast APIs, Prisma, TypeORM <br />
+✅ HTML/5, XHTML, JSX, CSS/3, SASS, LESS, On-Page SEO <br />
+✅ Material UI, Antd, Shadcn UI, Tailwind, Bootstrap, Styled Components, Emotion JS <br />
+✅ Monolith Application, Microservices, Micro-frontends <br />
+✅ Microsoft SQL Server, MongoDB, PostgreSQL, Supabase <br />
+✅ GitHub, GitLab, Bitbucket, CI/CD, Docker, Kubernetes (K8s) <br />
 ✅ AWS, Google Cloud, Microsoft Azure, Heroku, Vercel
 
 ###
