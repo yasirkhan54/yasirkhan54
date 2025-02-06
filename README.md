@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 Master’s in Information Technology graduate with 13 years of experience as a full-stack software engineer. Proficient in translating complex designs into functional web applications with expertise in coding standards, design patterns, optimization techniques, and on-page SEO. Skilled in efficient hydration techniques to optimize server-client resource usage for lightning-fast applications. Experienced in designing and developing secure, high-performance REST APIs using both monolithic and microservices architectures, deployable on-premises or in the cloud.
 </p>
 
+<h4 align="left">Technologies I know</h4>
+
 ✅ Next.js, React.js, React Hooks, React Router, React Query, React Hook Forms, Zod, Formik, Redux <br />
 ✅ Angular CLI, NgRx, Workspace, Application, Library, I18n, Server-side & hybrid rendering <br />
 ✅ JavaScript, TypeScript, Node.js, Express.js, Nest.js, Python, Fast APIs, Prisma, TypeORM <br />
@@ -33,10 +35,6 @@ Master’s in Information Technology graduate with 13 years of experience as a f
 ✅ Microsoft SQL Server, MongoDB, PostgreSQL, Supabase <br />
 ✅ GitHub, GitLab, Bitbucket, CI/CD, Docker, Kubernetes (K8s) <br />
 ✅ AWS, Google Cloud, Microsoft Azure, Heroku, Vercel
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
