@@ -14,15 +14,21 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<h2 align="left">Hello World!!! I'm Yasir, a Full-Stack Web Developer</h2>
+<h1 align="left">Hey 👋 What's up? I'm Yasir, a Full-Stack Web Developer</h1>
 
 ###
 
 <h3 align="left">About me</h3>
+
+✅ Next.js, React.js, React Hooks, React Router, React Query, React Hook Forms, Zod, Formik, Redux
+✅ Angular CLI, NgRx, Workspace, Application, Library, I18n, Server-side & hybrid rendering
+✅ JavaScript, TypeScript, Node.js, Express.js, Nest.js, Python, Fast APIs, Prisma, TypeORM
+✅ HTML/5, XHTML, JSX, CSS/3, SASS, LESS, On-Page SEO
+✅ Material UI, Antd, Shadcn UI, Tailwind, Bootstrap, Styled Components, Emotion JS
+✅ Monolith Application, Microservices, Micro-frontends
+✅ Microsoft SQL Server, MongoDB, PostgreSQL, Supabase
+✅ GitHub, GitLab, Bitbucket, CI/CD, Docker, Kubernetes (K8s)
+✅ AWS, Google Cloud, Microsoft Azure, Heroku, Vercel
 
 ###
 
