@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img src="banner.png" alt="Banner" width="100%" />
 
 <h1 align="left">Hey 👋 What's up? I'm Yasir, a Full-Stack Web Developer</h1>
 
