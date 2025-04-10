@@ -20,14 +20,15 @@ Here are some ideas to get you started:
 
 <h3 align="left">About me</h3>
 
-✅ Top Rated
-✅ 100% Job Success
-✅ 200+ Upwork Hours
-✅ All 5.00 ★★★★★ Feedback
+<p align="justify">
+  Highly skilled 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 with over 𝟭𝟯 𝘆𝗲𝗮𝗿𝘀 of experience delivering robust, scalable, and high-performance web applications using modern technologies like React, Next.js, Angular, TypeScript, Node.js, Python, FastAPI, and more.
+</p>
 
 <p align="justify">
-Master’s in Information Technology graduate with 13 years of experience as a full-stack software engineer. Proficient in translating complex designs into functional web applications with expertise in coding standards, design patterns, optimization techniques, and on-page SEO. Skilled in efficient hydration techniques to optimize server-client resource usage for lightning-fast applications. Experienced in designing and developing secure, high-performance REST APIs using both monolithic and microservices architectures, deployable on-premises or in the cloud.
+I specialize in building responsive, user-friendly front-end interfaces and well-architected secure backend systems that work smoothly together ensuring seamless experiences across all devices and platforms.
+
 </p>
+
 
 <h4 align="left">Technologies I know</h4>
 
