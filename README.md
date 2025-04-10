@@ -30,17 +30,32 @@ I specialize in building responsive, user-friendly front-end interfaces and well
 </p>
 
 
-<h4 align="left">Technologies I know</h4>
+<h4 align="left">𝗧𝗲𝗰𝗵 𝗧𝗵𝗮𝘁 𝗙𝘂𝗲𝗹𝘀 𝗠𝘆 𝗕𝘂𝗶𝗹𝗱𝘀</h4>
+✔️ Front-end: React, Next.js, Angular
+✔️ UI Frameworks: Tailwind, Shadcn UI, Material UI, Antd, Bootstrap
+✔️ Languages: JavaScript, TypeScript, Python
+✔️ Back-end: Node.js, ExpressJS, NestJS, FastAPI
+✔️ Databases: MongoDB, PostgreSQL, Supabase, Microsoft SQL
+✔️ ORMs: Prisma, TypeORM
+✔️ DevOps: GitHub, GitLab, Bitbucket, CI/CD, Docker
+✔️ Cloud: AWS, Google Cloud, Azure, Heroku, Vercel
+✔️ Architectures: Monoliths, Microservices, Micro-frontends
 
-✅ Next.js, React.js, React Hooks, React Router, React Query, React Hook Forms, Zod, Formik, Redux <br />
-✅ Angular CLI, NgRx, Workspace, Application, Library, I18n, Server-side & hybrid rendering <br />
-✅ JavaScript, TypeScript, Node.js, Express.js, Nest.js, Python, Fast APIs, Prisma, TypeORM <br />
-✅ HTML/5, XHTML, JSX, CSS/3, SASS, LESS, On-Page SEO <br />
-✅ Material UI, Antd, Shadcn UI, Tailwind, Bootstrap, Styled Components, Emotion JS <br />
-✅ Monolith Application, Microservices, Micro-frontends <br />
-✅ Microsoft SQL Server, MongoDB, PostgreSQL, Supabase <br />
-✅ GitHub, GitLab, Bitbucket, CI/CD, Docker, Kubernetes (K8s) <br />
-✅ AWS, Google Cloud, Microsoft Azure, Heroku, Vercel
+<h4 align="left">𝗪𝗵𝘆 𝗖𝗹𝗶𝗲𝗻𝘁𝘀 𝗟𝗼𝘃𝗲 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗪𝗶𝘁𝗵 𝗠𝗲</h4>
+✔️ Pro at building high-performing, visually stunning, and user-first web platforms
+✔️ Clean, maintainable code that follows best practices
+✔️ Prioritize performance, scalability, and security at every step
+✔️ Seamless API & third-party integrations
+✔️ Fast turnarounds with minimal downtime
+✔️ Strong communicator and reliable team player
+
+𝗘𝘅𝗽𝗲𝗰𝘁 𝗿𝗲𝘀𝘂𝗹𝘁𝘀 𝗹𝗶𝗸𝗲
+⚡ Snappy, beautiful, and secure front-end interfaces
+🛠️ Rock-solid back-end systems that scale with your business
+📦 Full-stack solutions built with future growth in mind
+
+𝗪𝗵𝗮𝘁'𝘀 𝗧𝗵𝗲 𝗡𝗲𝘅𝘁 𝗦𝘁𝗲𝗽?
+Send me an invite or hire me directly — I’m here to turn your vision into a reliable, production-ready product.
 
 ###
 
