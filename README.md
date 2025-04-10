@@ -57,6 +57,8 @@ I specialize in building responsive, user-friendly front-end interfaces and well
 <h4 align="left">𝗪𝗵𝗮𝘁'𝘀 𝗧𝗵𝗲 𝗡𝗲𝘅𝘁 𝗦𝘁𝗲𝗽?</h4>
 Send me an invite or hire me directly — I’m here to turn your vision into a reliable, production-ready product.
 
+<a href="https://www.upwork.com/freelancers/yasirbuland" target="_blank">Hire me!</a>
+
 ###
 
 <h2 align="left">I code with</h2>
