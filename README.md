@@ -31,15 +31,17 @@ I specialize in building responsive, user-friendly front-end interfaces and well
 
 
 <h4 align="left">𝗧𝗲𝗰𝗵 𝗧𝗵𝗮𝘁 𝗙𝘂𝗲𝗹𝘀 𝗠𝘆 𝗕𝘂𝗶𝗹𝗱𝘀</h4>
-✔️ Front-end: React, Next.js, Angular<br />
-✔️ UI Frameworks: Tailwind, Shadcn UI, Material UI, Antd, Bootstrap<br />
-✔️ Languages: JavaScript, TypeScript, Python<br />
-✔️ Back-end: Node.js, ExpressJS, NestJS, FastAPI<br />
-✔️ Databases: MongoDB, PostgreSQL, Supabase, Microsoft SQL<br />
-✔️ ORMs: Prisma, TypeORM<br />
-✔️ DevOps: GitHub, GitLab, Bitbucket, CI/CD, Docker<br />
-✔️ Cloud: AWS, Google Cloud, Azure, Heroku, Vercel<br />
-✔️ Architectures: Monoliths, Microservices, Micro-frontends<br />
+✔ Front-end: React, Next.js, Angular CLI, Single SPA<br />
+✔ UI Frameworks: Tailwind, Shadcn UI, Material UI, Antd, Bootstrap<br />
+✔ Languages: JavaScript, TypeScript, Python, C#<br />
+✔ Back-end: Node.js, ExpressJS, NestJS, FastAPI, ASP.NET Core<br />
+✔ Web Applications: SPA, SSR, SSG, ASP.NET MVC, Razor Pages, Blazor<br />
+✔ Databases: MongoDB, PostgreSQL, Supabase, Microsoft SQL<br />
+✔ ORMs: Prisma, TypeORM, Entity Framework Core<br />
+✔ DevOps: GitHub, GitLab, Bitbucket, CI/CD, Docker<br />
+✔ Cloud: AWS, Google Cloud, Azure, Heroku, Vercel<br />
+✔ Architectures: Monoliths, Microservices, Micro-frontends
+
 
 <h4 align="left">𝗪𝗵𝘆 𝗖𝗹𝗶𝗲𝗻𝘁𝘀 𝗟𝗼𝘃𝗲 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗪𝗶𝘁𝗵 𝗠𝗲</h4>
 ✔️ Pro at building high-performing, visually stunning, and user-first web platforms<br />
