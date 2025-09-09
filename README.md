@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<iframe width="1191" height="670" src="https://www.youtube.com/embed/9oBS4be5tbI" title="Upwork Introduction Video: Josh Burns ($900k SQL Server DBA freelancer)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <img src="banner.png" alt="Banner" width="100%" />
 
 <h1 align="left">Hey 👋 What's up? I'm Yasir, a Full Stack Web Developer</h1>
