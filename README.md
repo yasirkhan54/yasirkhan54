@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<iframe width="1191" height="670" src="https://www.youtube.com/embed/9oBS4be5tbI" title="Upwork Introduction Video: Josh Burns ($900k SQL Server DBA freelancer)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the demo](https://img.youtube.com/vi/9oBS4be5tbI/maxresdefault.jpg)](https://youtu.be/9oBS4be5tbI)
+
 
 <img src="banner.png" alt="Banner" width="100%" />
 
