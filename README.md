@@ -12,10 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Watch the demo](https://img.youtube.com/vi/9oBS4be5tbI/maxresdefault.jpg)](https://youtu.be/9oBS4be5tbI)
-
-
 <img src="banner.png" alt="Banner" width="100%" />
 
 <h1 align="left">Hey 👋 What's up? I'm Yasir, a Full Stack Web Developer</h1>
