@@ -34,7 +34,7 @@ Highly skilled **Full-Stack Web Developer** with over **13 years** of experience
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,cs,react,nextjs,angular,redux,html,css,tailwind,bootstrap,sass,nodejs,express,nestjs,fastapi,graphql,mongodb,postgres,supabase,mysql,redis,docker,kubernetes,aws,azure,gcp,heroku,vercel,git,github,gitlab,bitbucket,vscode,visualstudio,webstorm,pycharm,figma,jira,trello,slack&perline=12" alt="Yasir's Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,cs,dotnet,react,nextjs,angular,redux,storybook,html,css,tailwind,bootstrap,sass,materialui,nodejs,express,nestjs,fastapi,graphql,mongodb,postgres,supabase,mysql,redis,docker,kubernetes,aws,azure,gcp,heroku,vercel,git,github,gitlab,bitbucket,vscode,visualstudio,webstorm,pycharm,figma,slack,nginx&perline=11" alt="Yasir's Skill Icons" />
   </a>
 </p>
 
@@ -87,12 +87,12 @@ Highly skilled **Full-Stack Web Developer** with over **13 years** of experience
   <tr align="center">
     <td>
       <a href="https://github.com/yasirkhan54">
-        <img src="https://github-readme-stats.vercel.app/api?username=yasirkhan54&show_icons=true&theme=tokyonight&hide_border=true" alt="Yasir's GitHub Stats" />
+        <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=yasirkhan54&show_icons=true&theme=tokyonight&hide_border=true" alt="Yasir's GitHub Stats" />
       </a>
     </td>
     <td>
       <a href="https://github.com/yasirkhan54">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirkhan54&layout=compact&theme=tokyonight&hide_border=true" alt="Yasir's Most Used Languages" />
+        <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=yasirkhan54&layout=compact&theme=tokyonight&hide_border=true" alt="Yasir's Most Used Languages" />
       </a>
     </td>
   </tr>
@@ -100,7 +100,7 @@ Highly skilled **Full-Stack Web Developer** with over **13 years** of experience
     <td colspan="2">
       <br />
       <a href="https://github.com/yasirkhan54">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirkhan54&theme=tokyonight&hide_border=true" alt="Yasir's Commit Streak" />
+        <img src="https://streak-stats.demolab.com/?user=yasirkhan54&theme=tokyonight&hide_border=true" alt="Yasir's Commit Streak" />
       </a>
     </td>
   </tr>
