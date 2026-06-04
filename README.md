@@ -83,39 +83,32 @@ Highly skilled **Full-Stack Web Developer** with over **13 years** of experience
 
 ## 📊 GitHub Analytics & Metrics
 
+<p align="center">
+  <a href="https://github.com/yasirkhan54">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasirkhan54&theme=tokyonight" alt="Yasir's GitHub Profile Details" />
+  </a>
+</p>
+
 <table border="0" width="100%">
   <tr align="center">
-    <td>
-      <a href="https://github.com/yasirkhan54">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasirkhan54&theme=tokyonight" alt="Yasir's GitHub Profile Details" />
-      </a>
-    </td>
-  </tr>
-  <tr align="center">
-    <td>
-      <br />
+    <td width="50%">
       <a href="https://github.com/yasirkhan54">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasirkhan54&theme=tokyonight" alt="Yasir's Commit Stats" />
       </a>
     </td>
-  </tr>
-  <tr align="center">
-    <td>
-      <br />
+    <td width="50%">
       <a href="https://github.com/yasirkhan54">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasirkhan54&theme=tokyonight" alt="Yasir's Repos per Language" />
       </a>
     </td>
   </tr>
-  <tr align="center">
-    <td>
-      <br />
-      <a href="https://github.com/yasirkhan54">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirkhan54&theme=tokyonight&hide_border=true" alt="Yasir's Activity Graph" width="100%" />
-      </a>
-    </td>
-  </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/yasirkhan54">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirkhan54&theme=react-dark&hide_border=true" alt="Yasir's Activity Graph" width="100%" />
+  </a>
+</p>
 
 ---
 
