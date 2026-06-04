@@ -34,7 +34,7 @@ Highly skilled **Full-Stack Web Developer** with over **13 years** of experience
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,cs,dotnet,react,nextjs,angular,redux,storybook,html,css,tailwind,bootstrap,sass,materialui,nodejs,express,nestjs,fastapi,graphql,mongodb,postgres,supabase,mysql,redis,docker,kubernetes,aws,azure,gcp,heroku,vercel,git,github,gitlab,bitbucket,vscode,visualstudio,webstorm,pycharm,figma,slack,nginx&perline=11" alt="Yasir's Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,cs,dotnet,react,nextjs,angular,redux,storybook,html,css,tailwind,bootstrap,sass,materialui,nodejs,express,nestjs,fastapi,graphql,mongodb,postgres,supabase,mysql,redis,docker,kubernetes,aws,azure,gcp,heroku,vercel,git,github,gitlab,bitbucket,vscode,visualstudio,webstorm,pycharm,figma,slack,nginx,npm&perline=15" alt="Yasir's Skill Icons" />
   </a>
 </p>
 
@@ -87,25 +87,28 @@ Highly skilled **Full-Stack Web Developer** with over **13 years** of experience
   <tr align="center">
     <td>
       <a href="https://github.com/yasirkhan54">
-        <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=yasirkhan54&show_icons=true&theme=tokyonight&hide_border=true" alt="Yasir's GitHub Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/yasirkhan54">
-        <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=yasirkhan54&layout=compact&theme=tokyonight&hide_border=true" alt="Yasir's Most Used Languages" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasirkhan54&theme=tokyonight" alt="Yasir's GitHub Profile Details" />
       </a>
     </td>
   </tr>
   <tr align="center">
-    <td colspan="2">
+    <td>
       <br />
       <a href="https://github.com/yasirkhan54">
-        <img src="https://streak-stats.demolab.com/?user=yasirkhan54&theme=tokyonight&hide_border=true" alt="Yasir's Commit Streak" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasirkhan54&theme=tokyonight" alt="Yasir's Commit Stats" />
       </a>
     </td>
   </tr>
   <tr align="center">
-    <td colspan="2">
+    <td>
+      <br />
+      <a href="https://github.com/yasirkhan54">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasirkhan54&theme=tokyonight" alt="Yasir's Repos per Language" />
+      </a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
       <br />
       <a href="https://github.com/yasirkhan54">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirkhan54&theme=tokyonight&hide_border=true" alt="Yasir's Activity Graph" width="100%" />
