@@ -1,11 +1,6 @@
 <!--
 **yasirkhan54/yasirkhan54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-<p align="center">
-  <img src="banner.png" alt="Yasir Khan's Banner" width="100%" />
-</p>
-
 <h1 align="center">Hey 👋 What's up? I'm Yasir Khan</h1>
 
 <p align="center">
