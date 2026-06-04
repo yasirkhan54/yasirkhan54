@@ -34,7 +34,7 @@ Highly skilled **Full-Stack Web Developer** with over **13 years** of experience
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,cs,dotnet,react,nextjs,angular,redux,storybook,html,css,tailwind,bootstrap,sass,materialui,nodejs,express,nestjs,fastapi,graphql,mongodb,postgres,supabase,mysql,redis,docker,kubernetes,aws,azure,gcp,heroku,vercel,git,github,gitlab,bitbucket,vscode,visualstudio,webstorm,pycharm,figma,slack,nginx,npm&perline=15" alt="Yasir's Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cs,react,nextjs,angular,redux,html,css,tailwind,bootstrap,sass,nodejs,express,nestjs,fastapi,graphql,mongodb,postgres,supabase,mysql,redis,docker,kubernetes,aws,azure,gcp,heroku,vercel,git,github,gitlab,bitbucket,vscode,visualstudio,webstorm,pycharm,figma&perline=13" alt="Yasir's Skill Icons" />
   </a>
 </p>
 
