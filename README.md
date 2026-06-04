@@ -89,14 +89,14 @@ Highly skilled **Full-Stack Web Developer** with over **13 years** of experience
   </a>
 </p>
 
-<table border="0" width="100%">
+<table border="0" align="center">
   <tr align="center">
-    <td width="50%">
+    <td>
       <a href="https://github.com/yasirkhan54">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasirkhan54&theme=tokyonight" alt="Yasir's Commit Stats" />
       </a>
     </td>
-    <td width="50%">
+    <td>
       <a href="https://github.com/yasirkhan54">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasirkhan54&theme=tokyonight" alt="Yasir's Repos per Language" />
       </a>
@@ -106,7 +106,7 @@ Highly skilled **Full-Stack Web Developer** with over **13 years** of experience
 
 <p align="center">
   <a href="https://github.com/yasirkhan54">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirkhan54&theme=react-dark&hide_border=true" alt="Yasir's Activity Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirkhan54&theme=react-dark&hide_border=true" alt="Yasir's Activity Graph" />
   </a>
 </p>
 
