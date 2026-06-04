@@ -1,214 +1,129 @@
 <!--
 **yasirkhan54/yasirkhan54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-<img src="banner.png" alt="Banner" width="100%" />
 
-<h1 align="left">Hey 👋 What's up? I'm Yasir, a Full Stack Web Developer</h1>
-
-###
-
-<h3 align="left">About me</h3>
-
-<p align="justify">
-  Highly skilled 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 with over 𝟭𝟯 𝘆𝗲𝗮𝗿𝘀 of experience delivering robust, scalable, and high-performance web applications using modern technologies like React, Next.js, Angular, TypeScript, Node.js, Python, FastAPI, and more.
+<p align="center">
+  <img src="banner.png" alt="Yasir Khan's Banner" width="100%" />
 </p>
 
-<p align="justify">
-I specialize in building responsive, user-friendly front-end interfaces and well-architected secure backend systems that work smoothly together ensuring seamless experiences across all devices and platforms.
+<h1 align="center">Hey 👋 What's up? I'm Yasir Khan</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38B2AC&width=500&center=true&vCenter=true&lines=Full-Stack+Web+Developer;React+%26+Next.js+Specialist;Node.js+%26+Python+Expert;13%2B+Years+of+Experience" alt="Typing Animation" />
 </p>
 
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/yasirbuland" target="_blank">
+    <img src="https://img.shields.io/badge/Hire%20Me-Upwork-green?style=for-the-badge&logo=upwork&logoColor=white&color=14a800" alt="Hire Me on Upwork" />
+  </a>
+  <a href="https://github.com/yasirkhan54" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=yasirkhan54&label=Profile%20Views&color=0e76a8&style=for-the-badge" alt="Profile Views" />
+</p>
 
-<h4 align="left">𝗧𝗲𝗰𝗵 𝗧𝗵𝗮𝘁 𝗙𝘂𝗲𝗹𝘀 𝗠𝘆 𝗕𝘂𝗶𝗹𝗱𝘀</h4>
-✔ Front-end: React, Next.js, Angular CLI, Single SPA<br />
-✔ UI Frameworks: Tailwind, Shadcn UI, Material UI, Antd, Bootstrap<br />
-✔ Languages: JavaScript, TypeScript, Python, C#<br />
-✔ Back-end: Node.js, ExpressJS, NestJS, FastAPI, ASP.NET Core<br />
-✔ Web Applications: SPA, SSR, SSG, ASP.NET MVC, Razor Pages, Blazor<br />
-✔ Databases: MongoDB, PostgreSQL, Supabase, Microsoft SQL<br />
-✔ ORMs: Prisma, TypeORM, Entity Framework Core<br />
-✔ DevOps: GitHub, GitLab, Bitbucket, CI/CD, Docker<br />
-✔ Cloud: AWS, Google Cloud, Azure, Heroku, Vercel<br />
-✔ Architectures: Monoliths, Microservices, Micro-frontends
+---
 
+## 👤 About Me
 
-<h4 align="left">𝗪𝗵𝘆 𝗖𝗹𝗶𝗲𝗻𝘁𝘀 𝗟𝗼𝘃𝗲 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗪𝗶𝘁𝗵 𝗠𝗲</h4>
-✔️ Pro at building high-performing, visually stunning, and user-first web platforms<br />
-✔️ Clean, maintainable code that follows best practices<br />
-✔️ Prioritize performance, scalability, and security at every step<br />
-✔️ Seamless API & third-party integrations<br />
-✔️ Fast turnarounds with minimal downtime<br />
-✔️ Strong communicator and reliable team player<br />
+Highly skilled **Full-Stack Web Developer** with over **13 years** of experience delivering robust, scalable, and high-performance web applications. I specialize in building responsive, user-friendly frontend interfaces and secure, well-architected backend systems that work seamlessly together to ensure high-performance user experiences across all devices and platforms.
 
-<h4 align="left">𝗘𝘅𝗽𝗲𝗰𝘁 𝗿𝗲𝘀𝘂𝗹𝘁𝘀 𝗹𝗶𝗸𝗲</h4>
-⚡ Snappy, beautiful, and secure front-end interfaces<br />
-🛠️ Rock-solid back-end systems that scale with your business<br />
-📦 Full-stack solutions built with future growth in mind<br />
+---
 
-<h4 align="left">𝗪𝗵𝗮𝘁'𝘀 𝗧𝗵𝗲 𝗡𝗲𝘅𝘁 𝗦𝘁𝗲𝗽?</h4>
-Send me an invite or hire me directly — I’m here to turn your vision into a reliable, production-ready product.
+## 🛠️ Tech Stack & Ecosystem
 
-<a href="https://www.upwork.com/freelancers/yasirbuland" target="_blank">Hire me!</a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cs,react,nextjs,angular,redux,html,css,tailwind,bootstrap,sass,nodejs,express,nestjs,fastapi,graphql,mongodb,postgres,supabase,mysql,redis,docker,kubernetes,aws,azure,gcp,heroku,vercel,git,github,gitlab,bitbucket,vscode,visualstudio,webstorm,pycharm,figma,jira,trello,slack&perline=12" alt="Yasir's Skill Icons" />
+  </a>
+</p>
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## 🐍 Interactive Contribution Snake
 
-###
+*This visual snake game represents my GitHub contribution grid and is dynamically updated daily:*
 
-<br clear="both">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasirkhan54/yasirkhan54/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasirkhan54/yasirkhan54/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/yasirkhan54/yasirkhan54/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/feathersjs/feathersjs-original.svg" height="50" alt="feathersjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="50" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="50" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="50" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="50" alt="devicon logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="50" alt="less logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="50" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="50" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="50" alt="yarn logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="50" alt="babel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-original.svg" height="50" alt="nodewebkit logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="50" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="50" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="50" alt="ssh logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" height="50" alt="sourcetree logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="50" alt="webstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="50" alt="atom logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="50" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="50" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="50" alt="safari logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" height="50" alt="ie10 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="50" alt="opera logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="50" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="50" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="50" alt="d3js logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" alt="jquery logo"  />
-</div>
+---
 
-###
+## 🤝 Why Work With Me?
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Core Value Propositions</h3>
+      <ul>
+        <li>🚀 <b>Expert Product Builder</b>: Pro at building high-performing, visually stunning, and user-first web platforms.</li>
+        <li>🧼 <b>Clean Code Advocate</b>: Maintainable, robust code that follows best practices and clean design patterns.</li>
+        <li>🛡️ <b>Production-grade Focus</b>: Prioritize performance, scalability, and security at every step.</li>
+        <li>🔌 <b>Integrations Specialist</b>: Seamless API and third-party integrations.</li>
+        <li>⏱️ <b>Reliability & Communication</b>: Fast turnarounds, strong communicator, and a reliable team player.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Expected Results</h3>
+      <ul>
+        <li>✨ Snappy, beautiful, and secure front-end interfaces.</li>
+        <li>🛠️ Rock-solid back-end systems that scale with your business.</li>
+        <li>📦 Full-stack solutions built with future growth in mind.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics & Metrics
+
+<table border="0" width="100%">
+  <tr align="center">
+    <td>
+      <a href="https://github.com/yasirkhan54">
+        <img src="https://github-readme-stats.vercel.app/api?username=yasirkhan54&show_icons=true&theme=tokyonight&hide_border=true" alt="Yasir's GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/yasirkhan54">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirkhan54&layout=compact&theme=tokyonight&hide_border=true" alt="Yasir's Most Used Languages" />
+      </a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">
+      <br />
+      <a href="https://github.com/yasirkhan54">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirkhan54&theme=tokyonight&hide_border=true" alt="Yasir's Commit Streak" />
+      </a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">
+      <br />
+      <a href="https://github.com/yasirkhan54">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirkhan54&theme=tokyonight&hide_border=true" alt="Yasir's Activity Graph" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">📬 What's the next step?</h3>
+
+<p align="center">
+  Send me an invite or hire me directly — I’m here to turn your vision into a reliable, production-ready product.
+</p>
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/yasirbuland" target="_blank">
+    <img src="https://img.shields.io/badge/Hire%20Me%20On%20Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire Yasir Khan on Upwork" />
+  </a>
+</p>
