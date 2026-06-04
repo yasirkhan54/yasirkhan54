@@ -46,9 +46,9 @@ Highly skilled **Full-Stack Web Developer** with over **13 years** of experience
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasirkhan54/yasirkhan54/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasirkhan54/yasirkhan54/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/yasirkhan54/yasirkhan54/output/github-contribution-grid-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake" src="dist/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </p>
 
