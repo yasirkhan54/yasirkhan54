@@ -70,27 +70,27 @@
 <table>
   <tr>
     <td width="200"><b>AI &amp; LLMs</b></td>
-    <td><img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini&perline=10" alt="chatgpt · claude · gemini" /></td>
+    <td><img height="54" src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini&perline=10" alt="chatgpt · claude · gemini" /></td>
   </tr>
   <tr>
     <td width="200"><b>Languages</b></td>
-    <td><img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=python,ts,js&perline=10" alt="python · ts · js" /></td>
+    <td><img height="54" src="https://go-skill-icons.vercel.app/api/icons?i=python,ts,js&perline=10" alt="python · ts · js" /></td>
   </tr>
   <tr>
     <td width="200"><b>Frontend</b></td>
-    <td><img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,angular,redux,tailwind&perline=10" alt="react · nextjs · angular · redux · tailwind" /></td>
+    <td><img height="54" src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,angular,redux,tailwind&perline=10" alt="react · nextjs · angular · redux · tailwind" /></td>
   </tr>
   <tr>
     <td width="200"><b>Backend &amp; APIs</b></td>
-    <td><img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,nestjs,express,fastapi,graphql,postman&perline=10" alt="nodejs · nestjs · express · fastapi · graphql · postman" /></td>
+    <td><img height="54" src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,nestjs,express,fastapi,graphql,postman&perline=10" alt="nodejs · nestjs · express · fastapi · graphql · postman" /></td>
   </tr>
   <tr>
     <td width="200"><b>Data</b></td>
-    <td><img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=postgres,supabase,mongodb,redis,mysql,prisma&perline=10" alt="postgres · supabase · mongodb · redis · mysql · prisma" /></td>
+    <td><img height="54" src="https://go-skill-icons.vercel.app/api/icons?i=postgres,supabase,mongodb,redis,mysql,prisma&perline=10" alt="postgres · supabase · mongodb · redis · mysql · prisma" /></td>
   </tr>
   <tr>
     <td width="200"><b>Cloud &amp; DevOps</b></td>
-    <td><img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,vercel,nginx,linux,git&perline=10" alt="aws · gcp · azure · docker · kubernetes · githubactions · vercel · nginx · linux · git" /></td>
+    <td><img height="54" src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,vercel,nginx,linux,git&perline=10" alt="aws · gcp · azure · docker · kubernetes · githubactions · vercel · nginx · linux · git" /></td>
   </tr>
 </table>
 
