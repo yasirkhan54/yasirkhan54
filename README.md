@@ -34,27 +34,36 @@ I take it from process mapping and architecture to deployment on AWS, Google Clo
 
 ## Tech Stack
 
-<p align="center"><b>AI &amp; LLMs</b><br/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-</p>
-
-<p align="center"><b>Languages</b><br/><img src="https://skillicons.dev/icons?i=python,ts,js" alt="Languages" /></p>
-
-<p align="center"><b>Frontend</b><br/><img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind" alt="Frontend" /></p>
-
-<p align="center"><b>Backend &amp; APIs</b><br/><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,graphql,postman" alt="Backend &amp; APIs" /></p>
-
-<p align="center"><b>Data</b><br/><img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,redis,mysql,prisma" alt="Data" /></p>
-
-<p align="center"><b>Cloud &amp; DevOps</b><br/><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,vercel,nginx,linux,git" alt="Cloud &amp; DevOps" /></p>
+<table>
+  <tr>
+    <td width="200"><b>AI &amp; LLMs</b></td>
+    <td><img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini&perline=10" alt="chatgpt · claude · gemini" /></td>
+  </tr>
+  <tr>
+    <td width="200"><b>Languages</b></td>
+    <td><img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=python,ts,js&perline=10" alt="python · ts · js" /></td>
+  </tr>
+  <tr>
+    <td width="200"><b>Frontend</b></td>
+    <td><img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,angular,redux,tailwind&perline=10" alt="react · nextjs · angular · redux · tailwind" /></td>
+  </tr>
+  <tr>
+    <td width="200"><b>Backend &amp; APIs</b></td>
+    <td><img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,nestjs,express,fastapi,graphql,postman&perline=10" alt="nodejs · nestjs · express · fastapi · graphql · postman" /></td>
+  </tr>
+  <tr>
+    <td width="200"><b>Data</b></td>
+    <td><img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=postgres,supabase,mongodb,redis,mysql,prisma&perline=10" alt="postgres · supabase · mongodb · redis · mysql · prisma" /></td>
+  </tr>
+  <tr>
+    <td width="200"><b>Cloud &amp; DevOps</b></td>
+    <td><img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,vercel,nginx,linux,git&perline=10" alt="aws · gcp · azure · docker · kubernetes · githubactions · vercel · nginx · linux · git" /></td>
+  </tr>
+</table>
 
 ---
 
-## 🐍 Interactive Contribution Snake
-
-*This visual snake game represents my GitHub contribution grid and is dynamically updated daily:*
+## Contribution Activity
 
 <p align="center">
   <picture>
@@ -66,7 +75,7 @@ I take it from process mapping and architecture to deployment on AWS, Google Clo
 
 ---
 
-## 📊 GitHub Analytics & Metrics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasirkhan54&theme=tokyonight" alt="Yasir's GitHub Profile Details" />
