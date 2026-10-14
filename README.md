@@ -59,7 +59,7 @@
     <td align="center" valign="top" width="25%"><h2>50+</h2>Engineers led as a Lead Software Engineer on enterprise SaaS platforms</td>
     <td align="center" valign="top" width="25%"><h2>100+</h2>Code reviews run, with coding standards set for the team</td>
     <td align="center" valign="top" width="25%"><h2>100+</h2>Projects delivered across SaaS and business platforms</td>
-    <td align="center" valign="top" width="25%"><h2>AI team</h2>AI coding agents plan, code, test and report; I review and approve every release</td>
+    <td align="center" valign="top" width="25%"><h2>6</h2>AI coding agents that plan, code, test and report, while I review and approve every release</td>
   </tr>
 </table>
 
@@ -69,28 +69,34 @@
 
 <table>
   <tr>
-    <td width="200"><b>AI &amp; LLMs</b></td>
-    <td><img width="179" src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini&perline=10" alt="chatgpt · claude · gemini" /></td>
+    <td width="170"><b>AI &amp; LLMs</b></td>
+    <td width="280"><img width="159" src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini&perline=10" alt="OpenAI, Claude, Gemini" /></td>
+    <td>OpenAI, Claude, Gemini</td>
   </tr>
   <tr>
-    <td width="200"><b>Languages</b></td>
-    <td><img width="179" src="https://go-skill-icons.vercel.app/api/icons?i=python,ts,js&perline=10" alt="python · ts · js" /></td>
+    <td width="170"><b>Languages</b></td>
+    <td width="280"><img width="106" src="https://go-skill-icons.vercel.app/api/icons?i=python,ts&perline=10" alt="Python, TypeScript" /></td>
+    <td>Python, TypeScript</td>
   </tr>
   <tr>
-    <td width="200"><b>Frontend</b></td>
-    <td><img width="306" src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,angular,redux,tailwind&perline=10" alt="react · nextjs · angular · redux · tailwind" /></td>
+    <td width="170"><b>Frontend</b></td>
+    <td width="280"><img width="265" src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,angular,redux,tailwind&perline=10" alt="React, Next.js, Angular, Redux, Tailwind CSS" /></td>
+    <td>React, Next.js, Angular, Redux, Tailwind CSS</td>
   </tr>
   <tr>
-    <td width="200"><b>Backend &amp; APIs</b></td>
-    <td><img width="368" src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,nestjs,express,fastapi,graphql,postman&perline=10" alt="nodejs · nestjs · express · fastapi · graphql · postman" /></td>
+    <td width="170"><b>Backend &amp; APIs</b></td>
+    <td width="280"><img width="212" src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,nestjs,express,fastapi&perline=10" alt="Node.js, NestJS, Express, FastAPI" /></td>
+    <td>Node.js, NestJS, Express, FastAPI</td>
   </tr>
   <tr>
-    <td width="200"><b>Data</b></td>
-    <td><img width="368" src="https://go-skill-icons.vercel.app/api/icons?i=postgres,supabase,mongodb,redis,mysql,prisma&perline=10" alt="postgres · supabase · mongodb · redis · mysql · prisma" /></td>
+    <td width="170"><b>Data</b></td>
+    <td width="280"><img width="265" src="https://go-skill-icons.vercel.app/api/icons?i=postgres,supabase,mongodb,redis,prisma&perline=10" alt="PostgreSQL, Supabase, MongoDB, Redis, Prisma" /></td>
+    <td>PostgreSQL, Supabase, MongoDB, Redis, Prisma</td>
   </tr>
   <tr>
-    <td width="200"><b>Cloud &amp; DevOps</b></td>
-    <td><img width="620" src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,vercel,nginx,linux,git&perline=10" alt="aws · gcp · azure · docker · kubernetes · githubactions · vercel · nginx · linux · git" /></td>
+    <td width="170"><b>Cloud &amp; DevOps</b></td>
+    <td width="280"><img width="265" src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,docker,githubactions&perline=10" alt="AWS, Google Cloud, Azure, Docker, GitHub Actions CI/CD" /></td>
+    <td>AWS, Google Cloud, Azure, Docker, GitHub Actions CI/CD</td>
   </tr>
 </table>
 
