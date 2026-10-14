@@ -10,25 +10,58 @@
 
 ## About
 
-Your AI-built SaaS works in the demo. I make it work in production.
+<h3 align="center">Your AI-built SaaS works in the demo. I make it work in production.</h3>
 
-I am a Solutions Architect with a full stack background. I turn AI prototypes and AI-assisted SaaS into reliable systems, built to the standard of the fintech platforms I come from.
+<p align="center">
+  I am a Solutions Architect with a full stack background. I turn AI prototypes and AI-assisted SaaS into reliable systems, built to the standard of the fintech platforms I come from.
+</p>
 
-### What I build
+<br/>
 
-- **AI agents** that qualify leads, handle customer support and follow-up, and hand over to a person when they should
-- **RAG assistants** that answer from your own documents and data
-- **Voice AI** for inbound and outbound calls
-- **LLM and API integrations** between CRM, email, calendar, payments and internal tools (OpenAI, Claude, Gemini, tool calling, webhooks)
-- **The software around it:** Python and FastAPI or Node.js backends, PostgreSQL, Supabase and Redis, and Next.js dashboards
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" align="left">What I build</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="200"><b>AI agents</b></td>
+      <td>Qualify leads, handle customer support and follow-up, and hand over to a person when they should</td>
+    </tr>
+    <tr>
+      <td><b>RAG assistants</b></td>
+      <td>Answer from your own documents and data</td>
+    </tr>
+    <tr>
+      <td><b>Voice AI</b></td>
+      <td>Inbound and outbound calls</td>
+    </tr>
+    <tr>
+      <td><b>LLM &amp; API integrations</b></td>
+      <td>CRM, email, calendar, payments and internal tools, connected through OpenAI, Claude, Gemini, tool calling and webhooks</td>
+    </tr>
+    <tr>
+      <td><b>The software around it</b></td>
+      <td>Python and FastAPI or Node.js backends, PostgreSQL, Supabase and Redis, and Next.js dashboards</td>
+    </tr>
+    <tr>
+      <td><b>Delivery</b></td>
+      <td>From process mapping and architecture to deployment on AWS, Google Cloud or Azure with Docker and CI/CD, with logging, retries and alerts so it keeps working after handover</td>
+    </tr>
+  </tbody>
+</table>
 
-I take it from process mapping and architecture to deployment on AWS, Google Cloud or Azure with Docker and CI/CD, with logging, retries and alerts so it keeps working after handover.
+<br/>
 
-### Track record
-
-- Led 50+ engineers and ran 100+ code reviews as a Lead Software Engineer on enterprise SaaS platforms
-- 100+ projects delivered across SaaS and business platforms
-- I run my own software delivery on a team of AI coding agents that plan, code, test and report, while I review and approve every release
+<table>
+  <tr>
+    <td align="center" width="25%"><h2>50+</h2>Engineers led as a Lead Software Engineer on enterprise SaaS platforms</td>
+    <td align="center" width="25%"><h2>100+</h2>Code reviews run, with coding standards set for the team</td>
+    <td align="center" width="25%"><h2>100+</h2>Projects delivered across SaaS and business platforms</td>
+    <td align="center" width="25%"><h2>AI team</h2>AI coding agents plan, code, test and report; I review and approve every release</td>
+  </tr>
+</table>
 
 ---
 
