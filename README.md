@@ -34,11 +34,32 @@ I take it from process mapping and architecture to deployment on AWS, Google Clo
 
 ## Experience
 
-| Role | Company | Period |
-|---|---|---|
-| Solutions Architect | Self-employed (remote) | May 2025 – present |
-| Lead Software Engineer | NETSOL Technologies Inc. | Feb 2018 – May 2025 |
-| Senior Software Engineer | Systems Limited | Sep 2017 – Feb 2018 |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="40%" align="left">Role</th>
+      <th width="35%" align="left">Company</th>
+      <th width="25%" align="left">Period</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Solutions Architect</td>
+      <td>Self-employed (remote)</td>
+      <td>May 2025 – present</td>
+    </tr>
+    <tr>
+      <td>Lead Software Engineer</td>
+      <td>NETSOL Technologies Inc.</td>
+      <td>Feb 2018 – May 2025</td>
+    </tr>
+    <tr>
+      <td>Senior Software Engineer</td>
+      <td>Systems Limited</td>
+      <td>Sep 2017 – Feb 2018</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Selected work
 
