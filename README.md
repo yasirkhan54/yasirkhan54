@@ -125,8 +125,4 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirkhan54&theme=react-dark&hide_border=true" alt="Yasir's Activity Graph" />
-</p>
-
 ---
