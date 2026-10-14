@@ -75,8 +75,8 @@
   </tr>
   <tr>
     <td width="150"><b>Agents &amp; RAG</b></td>
-    <td width="420"><img width="386" src="assets/agents-rag.svg" alt="LangChain, LangGraph, LlamaIndex, CrewAI, MCP, Pinecone, Qdrant" /></td>
-    <td>LangChain, LangGraph, LlamaIndex, CrewAI, MCP, Pinecone, Qdrant</td>
+    <td width="420"><img width="160" src="assets/agents-rag.svg" alt="LangChain, LangGraph, MCP" /></td>
+    <td>LangChain, LangGraph, MCP</td>
   </tr>
   <tr>
     <td width="150"><b>Languages</b></td>
