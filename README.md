@@ -34,9 +34,21 @@ I take it from process mapping and architecture to deployment on AWS, Google Clo
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,nestjs,fastapi,express,react,nextjs,angular,tailwind,postgres,mongodb,supabase,redis,graphql,docker,kubernetes,aws,gcp,azure,vercel,github,githubactions&perline=12" alt="Tech stack" />
+<p align="center"><b>AI &amp; LLMs</b><br/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 </p>
+
+<p align="center"><b>Languages</b><br/><img src="https://skillicons.dev/icons?i=python,ts,js" alt="Languages" /></p>
+
+<p align="center"><b>Frontend</b><br/><img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind" alt="Frontend" /></p>
+
+<p align="center"><b>Backend &amp; APIs</b><br/><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,graphql,postman" alt="Backend &amp; APIs" /></p>
+
+<p align="center"><b>Data</b><br/><img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,redis,mysql,prisma" alt="Data" /></p>
+
+<p align="center"><b>Cloud &amp; DevOps</b><br/><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,vercel,nginx,linux,git" alt="Cloud &amp; DevOps" /></p>
 
 ---
 
