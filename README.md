@@ -95,8 +95,8 @@
   </tr>
   <tr>
     <td width="170"><b>Cloud &amp; DevOps</b></td>
-    <td width="310"><img width="273" src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,docker,githubactions&perline=10" alt="AWS, Google Cloud, Azure, Docker, GitHub Actions CI/CD" /></td>
-    <td>AWS, Google Cloud, Azure, Docker, GitHub Actions CI/CD</td>
+    <td width="310"><img width="273" src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,docker,githubactions&perline=10" alt="AWS, Google Cloud, Azure, Docker, GitHub Actions" /></td>
+    <td>AWS, Google Cloud, Azure, Docker, GitHub Actions</td>
   </tr>
 </table>
 
