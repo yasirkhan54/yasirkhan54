@@ -34,12 +34,13 @@ I take it from process mapping and architecture to deployment on AWS, Google Clo
 
 ## Experience
 
-<table width="100%">
+<table>
   <thead>
     <tr>
-      <th width="40%" align="left">Role</th>
-      <th width="35%" align="left">Company</th>
-      <th width="25%" align="left">Period</th>
+      <th align="left">Role</th>
+      <th align="left">Company</th>
+      <th align="left">Period</th>
+      <th align="left">Focus</th>
     </tr>
   </thead>
   <tbody>
@@ -47,16 +48,19 @@ I take it from process mapping and architecture to deployment on AWS, Google Clo
       <td>Solutions Architect</td>
       <td>Self-employed (remote)</td>
       <td>May 2025 – present</td>
+      <td>AI agents, RAG assistants, Voice AI and full stack SaaS for founders and growing businesses, from architecture to production</td>
     </tr>
     <tr>
       <td>Lead Software Engineer</td>
       <td>NETSOL Technologies Inc.</td>
       <td>Feb 2018 – May 2025</td>
+      <td>Architecture and delivery of enterprise fintech and automotive SaaS platforms; technical direction for a team of 50+ engineers</td>
     </tr>
     <tr>
       <td>Senior Software Engineer</td>
       <td>Systems Limited</td>
       <td>Sep 2017 – Feb 2018</td>
+      <td>Full stack e-commerce and enterprise web applications with Angular, TypeScript, Node.js and MongoDB</td>
     </tr>
   </tbody>
 </table>
