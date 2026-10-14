@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&width=600&center=true&vCenter=true&lines=Solutions+Architect;AI+Agents%2C+RAG+%26+Voice+AI;Led+50%2B+engineers;100%2B+projects+delivered" alt="Solutions Architect, AI Agents, RAG and Voice AI" />
 </p>
 
-<p align="center">
-  <a href="https://yasirkhan.dev" target="_blank"><img src="https://img.shields.io/badge/yasirkhan.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="yasirkhan.dev" /></a>
-  <a href="https://www.linkedin.com/in/yasirkhan54/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
 ---
 
 ## About
@@ -55,9 +50,7 @@ I take it from process mapping and architecture to deployment on AWS, Google Clo
 ## Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,nestjs,fastapi,express,react,nextjs,angular,tailwind,postgres,mongodb,supabase,redis,graphql,docker,kubernetes,aws,gcp,azure,vercel,github,githubactions&perline=12" alt="Tech stack" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,nestjs,fastapi,express,react,nextjs,angular,tailwind,postgres,mongodb,supabase,redis,graphql,docker,kubernetes,aws,gcp,azure,vercel,github,githubactions&perline=12" alt="Tech stack" />
 </p>
 
 ---
@@ -79,30 +72,22 @@ I take it from process mapping and architecture to deployment on AWS, Google Clo
 ## 📊 GitHub Analytics & Metrics
 
 <p align="center">
-  <a href="https://github.com/yasirkhan54">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasirkhan54&theme=tokyonight" alt="Yasir's GitHub Profile Details" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasirkhan54&theme=tokyonight" alt="Yasir's GitHub Profile Details" />
 </p>
 
 <table border="0" align="center">
   <tr align="center">
     <td>
-      <a href="https://github.com/yasirkhan54">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasirkhan54&theme=tokyonight" alt="Yasir's Commit Stats" />
-      </a>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasirkhan54&theme=tokyonight" alt="Yasir's Commit Stats" />
     </td>
     <td>
-      <a href="https://github.com/yasirkhan54">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasirkhan54&theme=tokyonight" alt="Yasir's Repos per Language" />
-      </a>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasirkhan54&theme=tokyonight" alt="Yasir's Repos per Language" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/yasirkhan54">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirkhan54&theme=react-dark&hide_border=true" alt="Yasir's Activity Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirkhan54&theme=react-dark&hide_border=true" alt="Yasir's Activity Graph" />
 </p>
 
 ---
