@@ -56,10 +56,10 @@
 
 <table>
   <tr>
-    <td align="center" width="25%"><h2>50+</h2>Engineers led as a Lead Software Engineer on enterprise SaaS platforms</td>
-    <td align="center" width="25%"><h2>100+</h2>Code reviews run, with coding standards set for the team</td>
-    <td align="center" width="25%"><h2>100+</h2>Projects delivered across SaaS and business platforms</td>
-    <td align="center" width="25%"><h2>AI team</h2>AI coding agents plan, code, test and report; I review and approve every release</td>
+    <td align="center" valign="top" width="25%"><h2>50+</h2>Engineers led as a Lead Software Engineer on enterprise SaaS platforms</td>
+    <td align="center" valign="top" width="25%"><h2>100+</h2>Code reviews run, with coding standards set for the team</td>
+    <td align="center" valign="top" width="25%"><h2>100+</h2>Projects delivered across SaaS and business platforms</td>
+    <td align="center" valign="top" width="25%"><h2>AI team</h2>AI coding agents plan, code, test and report; I review and approve every release</td>
   </tr>
 </table>
 
