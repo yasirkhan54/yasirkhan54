@@ -1,9 +1,9 @@
 <h1 align="center">Yasir Khan</h1>
 
-<p align="center"><b>Solutions Architect</b> · AI SaaS to production · AI Agents, RAG &amp; Voice AI</p>
+<p align="center"><b>AI Engineer &amp; Solutions Architect at Toptal</b> · I take AI products from idea to production · Agentic AI, LLM, RAG &amp; AWS</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&width=600&center=true&vCenter=true&lines=Solutions+Architect;AI+Agents%2C+RAG+%26+Voice+AI;Led+50%2B+engineers;100%2B+projects+delivered" alt="Solutions Architect, AI Agents, RAG and Voice AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&width=600&center=true&vCenter=true&lines=AI+Engineer+%26+Solutions+Architect;Idea+to+production;Agentic+AI%2C+LLM%2C+RAG+%26+AWS" alt="AI Engineer and Solutions Architect, Agentic AI, LLM, RAG and AWS" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 <h3 align="center">Your AI-built SaaS works in the demo. I make it work in production.</h3>
 
 <p align="center">
-  I am a Solutions Architect with a full stack background. I turn AI prototypes and AI-assisted SaaS into reliable systems, built to the standard of the fintech platforms I come from.
+  I am an AI Engineer and Solutions Architect at Toptal with a full stack background. I turn AI prototypes and AI-assisted SaaS into reliable systems, built to the standard of the fintech platforms I come from.
 </p>
 
 <br/>
