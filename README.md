@@ -1,43 +1,113 @@
-<!--
-**yasirkhan54/yasirkhan54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<h1 align="center">Hey 👋 What's up? I'm Yasir Khan</h1>
+<h1 align="center">Yasir Khan</h1>
+
+<p align="center"><b>Solutions Architect</b> · AI SaaS to production · AI Agents, RAG &amp; Voice AI</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38B2AC&width=500&center=true&vCenter=true&lines=Full-Stack+Web+Developer;React+%26+Next.js+Specialist;Node.js+%26+Python+Expert;13%2B+Years+of+Experience" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <a href="https://www.upwork.com/freelancers/yasirbuland" target="_blank">
-    <img src="https://img.shields.io/badge/Hire%20Me-Upwork-green?style=for-the-badge&logo=upwork&logoColor=white&color=14a800" alt="Hire Me on Upwork" />
-  </a>
-  <a href="https://github.com/yasirkhan54" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=yasirkhan54&label=Profile%20Views&color=0e76a8&style=for-the-badge" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&width=600&center=true&vCenter=true&lines=Solutions+Architect;AI+Agents%2C+RAG+%26+Voice+AI;Led+50%2B+engineers;100%2B+projects+delivered" alt="Solutions Architect, AI Agents, RAG and Voice AI" />
 </p>
 
 ---
 
-## 👤 About Me
+## About
 
-Highly skilled **Full-Stack Web Developer** with over **13 years** of experience delivering robust, scalable, and high-performance web applications. I specialize in building responsive, user-friendly frontend interfaces and secure, well-architected backend systems that work seamlessly together to ensure high-performance user experiences across all devices and platforms.
-
----
-
-## 🛠️ Tech Stack & Ecosystem
+<h3 align="center">Your AI-built SaaS works in the demo. I make it work in production.</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,cs,react,nextjs,angular,redux,html,css,tailwind,bootstrap,sass,nodejs,express,nestjs,fastapi,graphql,mongodb,postgres,supabase,mysql,redis,docker,kubernetes,aws,azure,gcp,heroku,vercel,git,github,gitlab,bitbucket,vscode,visualstudio,webstorm,pycharm,figma&perline=13" alt="Yasir's Skill Icons" />
-  </a>
+  I am a Solutions Architect with a full stack background. I turn AI prototypes and AI-assisted SaaS into reliable systems, built to the standard of the fintech platforms I come from.
 </p>
+
+<br/>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" align="left">What I build</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="200"><b>AI agents</b></td>
+      <td>Qualify leads, handle customer support and follow-up, and hand over to a person when they should</td>
+    </tr>
+    <tr>
+      <td><b>RAG assistants</b></td>
+      <td>Answer from your own documents and data</td>
+    </tr>
+    <tr>
+      <td><b>Voice AI</b></td>
+      <td>Inbound and outbound calls</td>
+    </tr>
+    <tr>
+      <td><b>LLM &amp; API integrations</b></td>
+      <td>CRM, email, calendar, payments and internal tools, connected through OpenAI, Claude, Gemini, tool calling and webhooks</td>
+    </tr>
+    <tr>
+      <td><b>The software around it</b></td>
+      <td>Python and FastAPI or Node.js backends, PostgreSQL, Supabase and Redis, and Next.js dashboards</td>
+    </tr>
+    <tr>
+      <td><b>Delivery</b></td>
+      <td>From process mapping and architecture to deployment on AWS, Google Cloud or Azure with Docker and CI/CD, with logging, retries and alerts so it keeps working after handover</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%"><h2>50+</h2>Engineers led as a Lead Software Engineer on enterprise SaaS platforms</td>
+    <td align="center" valign="top" width="25%"><h2>100+</h2>Code reviews run, with coding standards set for the team</td>
+    <td align="center" valign="top" width="25%"><h2>100+</h2>Projects delivered across SaaS and business platforms</td>
+    <td align="center" valign="top" width="25%"><h2>6</h2>AI coding agents that plan, code, test and report, while I review and approve every release</td>
+  </tr>
+</table>
 
 ---
 
-## 🐍 Interactive Contribution Snake
+## Tech Stack
 
-*This visual snake game represents my GitHub contribution grid and is dynamically updated daily:*
+<table>
+  <tr>
+    <td width="150"><b>LLMs</b></td>
+    <td width="420"><img width="386" src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,deepseek,mistral,huggingface,ollama&perline=10" alt="OpenAI, Claude, Gemini, DeepSeek, Mistral, Hugging Face, Ollama" /></td>
+    <td>OpenAI, Claude, Gemini, DeepSeek, Mistral, Hugging Face, Ollama</td>
+  </tr>
+  <tr>
+    <td width="150"><b>Agents &amp; RAG</b></td>
+    <td width="420"><img width="160" src="assets/ai-agents.svg" alt="LangChain, LangGraph, MCP" /></td>
+    <td>LangChain, LangGraph, MCP</td>
+  </tr>
+  <tr>
+    <td width="150"><b>Languages</b></td>
+    <td width="420"><img width="104" src="https://go-skill-icons.vercel.app/api/icons?i=python,ts&perline=10" alt="Python, TypeScript" /></td>
+    <td>Python, TypeScript</td>
+  </tr>
+  <tr>
+    <td width="150"><b>Frontend</b></td>
+    <td width="420"><img width="273" src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,angular,redux,tailwind&perline=10" alt="React, Next.js, Angular, Redux, Tailwind CSS" /></td>
+    <td>React, Next.js, Angular, Redux, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td width="150"><b>Backend &amp; APIs</b></td>
+    <td width="420"><img width="217" src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,nestjs,express,fastapi&perline=10" alt="Node.js, NestJS, Express, FastAPI" /></td>
+    <td>Node.js, NestJS, Express, FastAPI</td>
+  </tr>
+  <tr>
+    <td width="150"><b>Data</b></td>
+    <td width="420"><img width="273" src="https://go-skill-icons.vercel.app/api/icons?i=postgres,supabase,mongodb,redis,prisma&perline=10" alt="PostgreSQL, Supabase, MongoDB, Redis, Prisma" /></td>
+    <td>PostgreSQL, Supabase, MongoDB, Redis, Prisma</td>
+  </tr>
+  <tr>
+    <td width="150"><b>Cloud &amp; DevOps</b></td>
+    <td width="420"><img width="273" src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,docker,githubactions&perline=10" alt="AWS, Google Cloud, Azure, Docker, GitHub Actions" /></td>
+    <td>AWS, Google Cloud, Azure, Docker, GitHub Actions</td>
+  </tr>
+</table>
+
+---
+
+## Contribution Activity
 
 <p align="center">
   <picture>
@@ -49,72 +119,19 @@ Highly skilled **Full-Stack Web Developer** with over **13 years** of experience
 
 ---
 
-## 🤝 Why Work With Me?
-
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 Core Value Propositions</h3>
-      <ul>
-        <li>🚀 <b>Expert Product Builder</b>: Pro at building high-performing, visually stunning, and user-first web platforms.</li>
-        <li>🧼 <b>Clean Code Advocate</b>: Maintainable, robust code that follows best practices and clean design patterns.</li>
-        <li>🛡️ <b>Production-grade Focus</b>: Prioritize performance, scalability, and security at every step.</li>
-        <li>🔌 <b>Integrations Specialist</b>: Seamless API and third-party integrations.</li>
-        <li>⏱️ <b>Reliability & Communication</b>: Fast turnarounds, strong communicator, and a reliable team player.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Expected Results</h3>
-      <ul>
-        <li>✨ Snappy, beautiful, and secure front-end interfaces.</li>
-        <li>🛠️ Rock-solid back-end systems that scale with your business.</li>
-        <li>📦 Full-stack solutions built with future growth in mind.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Analytics & Metrics
+## GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/yasirkhan54">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasirkhan54&theme=tokyonight" alt="Yasir's GitHub Profile Details" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasirkhan54&theme=tokyonight" alt="Yasir's GitHub Profile Details" />
 </p>
 
 <table border="0" align="center">
   <tr align="center">
     <td>
-      <a href="https://github.com/yasirkhan54">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasirkhan54&theme=tokyonight" alt="Yasir's Commit Stats" />
-      </a>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasirkhan54&theme=tokyonight" alt="Yasir's Commit Stats" />
     </td>
     <td>
-      <a href="https://github.com/yasirkhan54">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasirkhan54&theme=tokyonight" alt="Yasir's Repos per Language" />
-      </a>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasirkhan54&theme=tokyonight" alt="Yasir's Repos per Language" />
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/yasirkhan54">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirkhan54&theme=react-dark&hide_border=true" alt="Yasir's Activity Graph" />
-  </a>
-</p>
-
----
-
-<h3 align="center">📬 What's the next step?</h3>
-
-<p align="center">
-  Send me an invite or hire me directly — I’m here to turn your vision into a reliable, production-ready product.
-</p>
-
-<p align="center">
-  <a href="https://www.upwork.com/freelancers/yasirbuland" target="_blank">
-    <img src="https://img.shields.io/badge/Hire%20Me%20On%20Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire Yasir Khan on Upwork" />
-  </a>
-</p>
